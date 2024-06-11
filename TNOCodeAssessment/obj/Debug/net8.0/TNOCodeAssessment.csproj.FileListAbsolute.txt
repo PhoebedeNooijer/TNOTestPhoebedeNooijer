@@ -1,0 +1,14 @@
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\bin\Debug\net8.0\TNOCodeAssessment.exe
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\bin\Debug\net8.0\TNOCodeAssessment.deps.json
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\bin\Debug\net8.0\TNOCodeAssessment.runtimeconfig.json
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\bin\Debug\net8.0\TNOCodeAssessment.dll
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\bin\Debug\net8.0\TNOCodeAssessment.pdb
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\TNOCodeAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\TNOCodeAssessment.AssemblyInfoInputs.cache
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\TNOCodeAssessment.AssemblyInfo.cs
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\TNOCodeAssessment.csproj.CoreCompileInputs.cache
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\TNOCodeAssessment.dll
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\refint\TNOCodeAssessment.dll
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\TNOCodeAssessment.pdb
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\TNOCodeAssessment.genruntimeconfig.cache
+C:\Users\phoeb\source\repos\TNOTestPhoebedeNooijer\TNOCodeAssessment\obj\Debug\net8.0\ref\TNOCodeAssessment.dll

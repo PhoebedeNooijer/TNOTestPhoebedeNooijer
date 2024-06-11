@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TNOCodeAssessment": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\phoeb\\source\\repos\\TNOTestPhoebedeNooijer\\radar_data.csv"
+    }
+  }
+}
