@@ -29,7 +29,7 @@ internal class Program
                     var values = line.Split(';');
                     for (int i = 0; i < values.Length; i++)
                     {
-                        values[i] = new string(values[i].Where(c => c == "0" || c == "1").ToArray());
+                        values[i] = new string(values[i].Where(c => c == '0' || c == '1').ToArray());
                     }
 
                     if (IsEnemy(values))
